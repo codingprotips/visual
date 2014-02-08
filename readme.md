@@ -6,7 +6,7 @@ All visual styles related to codingprotips project
 
 ![Scheme](https://raw2.github.com/codingprotips/visual/master/color-scheme.png)
 
-* #FFFFFF
+* #EEEEEE
 * #9DCDCE
 * #618D8E
 * #557173
