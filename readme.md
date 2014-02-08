@@ -2,7 +2,9 @@
 
 ## Color scheme
 
-* #FFFFFF 
+![Scheme](https://raw2.github.com/codingprotips/visual/master/color-scheme.png)
+
+* #FFFFFF
 * #9DCDCE
 * #618D8E
 * #557173
